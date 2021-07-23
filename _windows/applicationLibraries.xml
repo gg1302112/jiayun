@@ -1,0 +1,29 @@
+<application>
+  <component name="libraryTable">
+    <library name="commons-dbutils-1.7-javadoc">
+      <CLASSES>
+        <root url="jar://E:/java_project/java_workspace/commons-dbutils-1.7/commons-dbutils-1.7.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://E:/java_project/java_workspace/commons-dbutils-1.7/commons-dbutils-1.7-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://E:/java_project/java_workspace/commons-dbutils-1.7/commons-dbutils-1.7-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="mysql-connector-java-8.0.21">
+      <CLASSES>
+        <root url="jar://E:/java_project/java_workspace/mysql-connector-java-8.0.21.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="ojdbc6">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/java学习笔记/javase连老师笔记/database/note/ojdbc6.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

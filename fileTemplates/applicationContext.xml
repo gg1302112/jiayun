@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans    http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--User  user =new User();
+        id:通过这个属性获取类的对象
+    	class:配置哪个类的对象
+     -->
+       <bean id="us" class="com.msb.pojo.User"></bean>
+</beans>

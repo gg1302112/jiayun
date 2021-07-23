@@ -1,0 +1,25 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gg1302112/java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="gg1302112" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/incubator-dubbo-ops.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/dubbo-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\java_project\java_workspace" />
+  </component>
+</application>
