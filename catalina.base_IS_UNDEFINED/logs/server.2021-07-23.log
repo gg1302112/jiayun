@@ -1,0 +1,61 @@
+2021-07-23 18:39:00.827 [main] INFO  com.lzw.JiayunApplication - Starting JiayunApplication using Java 1.8.0_151 on lzw with PID 53064 (E:\java_project\jiayun\target\classes started by lzw in E:\java_project\jiayun)
+2021-07-23 18:39:00.829 [main] INFO  com.lzw.JiayunApplication - No active profile set, falling back to default profiles: default
+2021-07-23 18:39:29.962 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-07-23 18:39:29.970 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-07-23 18:39:29.970 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 18:39:29.971 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 18:39:29.972 [main] INFO  org.apache.catalina.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-07-23 18:39:29.972 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2021-07-23 18:39:29.972 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2021-07-23 18:39:29.972 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-07-23 18:39:30.296 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2021-07-23 18:39:31.803 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/spring] - Initializing Spring embedded WebApplicationContext
+2021-07-23 18:39:31.803 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 30476 ms
+2021-07-23 18:39:33.801 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'getEmp': Unsatisfied dependency expressed through field 'empService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.lzw.service.EmpService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-07-23 18:39:33.803 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-07-23 18:39:33.925 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-07-23 18:39:34.272 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field empService in com.lzw.controller.GetEmp required a bean of type 'com.lzw.service.EmpService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.lzw.service.EmpService' in your configuration.
+
+2021-07-23 18:41:24.817 [main] INFO  com.lzw.JiayunApplication - Starting JiayunApplication using Java 1.8.0_151 on lzw with PID 49832 (E:\java_project\jiayun\target\classes started by lzw in E:\java_project\jiayun)
+2021-07-23 18:41:24.819 [main] INFO  com.lzw.JiayunApplication - No active profile set, falling back to default profiles: default
+2021-07-23 18:41:25.814 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-07-23 18:41:25.821 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-07-23 18:41:25.822 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-07-23 18:41:25.822 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-23 18:41:25.824 [main] INFO  org.apache.catalina.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-07-23 18:41:25.825 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2021-07-23 18:41:25.825 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2021-07-23 18:41:25.825 [main] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-07-23 18:41:25.829 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2021-07-23 18:41:25.928 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/spring] - Initializing Spring embedded WebApplicationContext
+2021-07-23 18:41:25.929 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1063 ms
+2021-07-23 18:41:26.038 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-07-23 18:41:26.375 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-07-23 18:41:30.081 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2021-07-23 18:41:30.733 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-07-23 18:41:30.911 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/spring'
+2021-07-23 18:41:30.922 [main] INFO  com.lzw.JiayunApplication - Started JiayunApplication in 6.469 seconds (JVM running for 7.675)
+2021-07-23 18:41:49.512 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/spring] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-23 18:41:49.512 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-07-23 18:41:49.512 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-07-23 18:41:49.592 [http-nio-8080-exec-1] DEBUG com.lzw.mapper.EmpMapper.getAllEmp - ==>  Preparing: select * from emp
+2021-07-23 18:41:49.718 [http-nio-8080-exec-1] DEBUG com.lzw.mapper.EmpMapper.getAllEmp - ==> Parameters: 
+2021-07-23 18:41:49.743 [http-nio-8080-exec-1] DEBUG com.lzw.mapper.EmpMapper.getAllEmp - <==      Total: 14
