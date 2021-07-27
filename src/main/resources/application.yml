@@ -1,7 +1,7 @@
 server:
   port: 8080
   servlet:
-    context-path: /spring
+    context-path: /
 
 spring:
   datasource:
@@ -44,4 +44,4 @@ spring:
 
 mybatis:
   mapper-locations: classpath:mybatis/*.xml
-  type-aliases-package: com.lzw.pojo
+  type-aliases-package: com.lzw.bean
