@@ -1,5 +1,8 @@
 package com.lzw.controller;
 
+import com.lzw.bean.TblUserRecord;
+import com.lzw.service.login.LoginService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -15,9 +18,14 @@ import org.springframework.web.bind.annotation.RestController;
 //@CrossOrigin
 public class LoginController {
 
+    @Autowired
+    private LoginService loginService;
+
     @RequestMapping("/auth/login")
-    public String login(){
-        System.out.println("this is login test");
+    public String login(String username,String password){
+        System.out.println(username+"-----"+password);
+        TblUserRecord tblUserRecord = loginService.login(username,password);
+        System.out.println(tblUserRecord);
         return "ok";
     }
 }
