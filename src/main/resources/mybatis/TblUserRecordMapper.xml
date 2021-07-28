@@ -42,7 +42,7 @@
     </resultMap>
     
     <select id="login" resultMap="loginResultMap">
-        
+        select * from tbl_user_record
     </select>
 
 </mapper>
