@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyCarSpaceRentDetail;
+import com.lzw.bean.base.WyCarSpaceRentDetail;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyEstateTemporary;
+import com.lzw.bean.base.FyEstateTemporary;
 import com.lzw.mapper.FyEstateTemporaryMapper;
 import com.lzw.service.base.FyEstateTemporaryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

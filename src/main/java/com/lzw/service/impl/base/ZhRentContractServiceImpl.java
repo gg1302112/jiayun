@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.ZhRentContract;
+import com.lzw.bean.base.ZhRentContract;
 import com.lzw.mapper.ZhRentContractMapper;
 import com.lzw.service.base.ZhRentContractService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblEnvirSetting;
+import com.lzw.bean.base.TblEnvirSetting;
 import com.lzw.mapper.TblEnvirSettingMapper;
 import com.lzw.service.base.TblEnvirSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

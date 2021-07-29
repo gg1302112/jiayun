@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyTakeoverDataDetail;
+import com.lzw.bean.base.WyTakeoverDataDetail;
 import com.lzw.mapper.WyTakeoverDataDetailMapper;
 import com.lzw.service.base.WyTakeoverDataDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

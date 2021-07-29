@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblGroupsTodo;
+import com.lzw.bean.base.TblGroupsTodo;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

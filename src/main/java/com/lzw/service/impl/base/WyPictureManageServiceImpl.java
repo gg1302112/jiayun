@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyPictureManage;
+import com.lzw.bean.base.WyPictureManage;
 import com.lzw.mapper.WyPictureManageMapper;
 import com.lzw.service.base.WyPictureManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

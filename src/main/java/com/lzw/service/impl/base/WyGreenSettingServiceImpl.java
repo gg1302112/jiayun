@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyGreenSetting;
+import com.lzw.bean.base.WyGreenSetting;
 import com.lzw.mapper.WyGreenSettingMapper;
 import com.lzw.service.base.WyGreenSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

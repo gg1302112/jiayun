@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyCommunityEvent;
+import com.lzw.bean.base.WyCommunityEvent;
 import com.lzw.mapper.WyCommunityEventMapper;
 import com.lzw.service.base.WyCommunityEventService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

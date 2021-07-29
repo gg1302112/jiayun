@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyGreenSetting;
+import com.lzw.bean.base.WyGreenSetting;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

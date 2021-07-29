@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FyRefundSub;
+import com.lzw.bean.base.FyRefundSub;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

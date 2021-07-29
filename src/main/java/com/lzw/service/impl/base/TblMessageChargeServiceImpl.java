@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblMessageCharge;
+import com.lzw.bean.base.TblMessageCharge;
 import com.lzw.mapper.TblMessageChargeMapper;
 import com.lzw.service.base.TblMessageChargeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

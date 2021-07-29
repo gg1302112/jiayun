@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblUserRole;
+import com.lzw.bean.base.TblUserRole;
 import com.lzw.mapper.TblUserRoleMapper;
 import com.lzw.service.base.TblUserRoleService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyHistoryMoneyTemp;
+import com.lzw.bean.base.FyHistoryMoneyTemp;
 import com.lzw.mapper.FyHistoryMoneyTempMapper;
 import com.lzw.service.base.FyHistoryMoneyTempService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

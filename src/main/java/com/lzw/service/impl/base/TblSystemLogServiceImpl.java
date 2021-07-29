@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblSystemLog;
+import com.lzw.bean.base.TblSystemLog;
 import com.lzw.mapper.TblSystemLogMapper;
 import com.lzw.service.base.TblSystemLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

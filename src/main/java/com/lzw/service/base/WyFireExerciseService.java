@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.WyFireExercise;
+import com.lzw.bean.base.WyFireExercise;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

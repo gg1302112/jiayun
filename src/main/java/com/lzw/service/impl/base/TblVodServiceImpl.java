@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblVod;
+import com.lzw.bean.base.TblVod;
 import com.lzw.mapper.TblVodMapper;
 import com.lzw.service.base.TblVodService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

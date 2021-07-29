@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblVod;
+import com.lzw.bean.base.TblVod;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

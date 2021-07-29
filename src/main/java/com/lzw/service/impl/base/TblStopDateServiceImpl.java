@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblStopDate;
+import com.lzw.bean.base.TblStopDate;
 import com.lzw.mapper.TblStopDateMapper;
 import com.lzw.service.base.TblStopDateService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

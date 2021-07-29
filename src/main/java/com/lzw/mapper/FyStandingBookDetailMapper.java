@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FyStandingBookDetail;
+import com.lzw.bean.base.FyStandingBookDetail;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

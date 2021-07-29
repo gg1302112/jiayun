@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.ZhCsHandleSpeed;
+import com.lzw.bean.base.ZhCsHandleSpeed;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

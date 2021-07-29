@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyOutProject;
+import com.lzw.bean.base.WyOutProject;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

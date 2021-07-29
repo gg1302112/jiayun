@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblVoteSubject;
+import com.lzw.bean.base.TblVoteSubject;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

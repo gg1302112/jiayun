@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.WyCleanRecord;
+import com.lzw.bean.base.WyCleanRecord;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

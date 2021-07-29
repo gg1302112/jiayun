@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblComparyNotice;
+import com.lzw.bean.base.TblComparyNotice;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyCarManage;
+import com.lzw.bean.base.WyCarManage;
 import com.lzw.mapper.WyCarManageMapper;
 import com.lzw.service.base.WyCarManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

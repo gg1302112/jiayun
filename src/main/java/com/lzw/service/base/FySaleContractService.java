@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FySaleContract;
+import com.lzw.bean.base.FySaleContract;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

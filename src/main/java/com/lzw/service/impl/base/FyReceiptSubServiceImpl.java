@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyReceiptSub;
+import com.lzw.bean.base.FyReceiptSub;
 import com.lzw.mapper.FyReceiptSubMapper;
 import com.lzw.service.base.FyReceiptSubService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

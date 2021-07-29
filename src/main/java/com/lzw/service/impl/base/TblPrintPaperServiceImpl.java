@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblPrintPaper;
+import com.lzw.bean.base.TblPrintPaper;
 import com.lzw.mapper.TblPrintPaperMapper;
 import com.lzw.service.base.TblPrintPaperService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

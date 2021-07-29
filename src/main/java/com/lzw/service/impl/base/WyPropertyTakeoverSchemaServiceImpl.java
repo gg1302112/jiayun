@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyPropertyTakeoverSchema;
+import com.lzw.bean.base.WyPropertyTakeoverSchema;
 import com.lzw.mapper.WyPropertyTakeoverSchemaMapper;
 import com.lzw.service.base.WyPropertyTakeoverSchemaService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

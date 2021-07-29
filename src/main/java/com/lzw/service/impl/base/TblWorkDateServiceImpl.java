@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblWorkDate;
+import com.lzw.bean.base.TblWorkDate;
 import com.lzw.mapper.TblWorkDateMapper;
 import com.lzw.service.base.TblWorkDateService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

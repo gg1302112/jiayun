@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FyReceiptSub;
+import com.lzw.bean.base.FyReceiptSub;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

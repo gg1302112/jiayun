@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyCleanCheck;
+import com.lzw.bean.base.WyCleanCheck;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

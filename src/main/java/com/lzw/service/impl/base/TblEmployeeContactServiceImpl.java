@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblEmployeeContact;
+import com.lzw.bean.base.TblEmployeeContact;
 import com.lzw.mapper.TblEmployeeContactMapper;
 import com.lzw.service.base.TblEmployeeContactService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

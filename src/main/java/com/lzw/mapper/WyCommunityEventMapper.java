@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyCommunityEvent;
+import com.lzw.bean.base.WyCommunityEvent;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

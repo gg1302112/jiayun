@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FyMoneyTemporary02;
+import com.lzw.bean.base.FyMoneyTemporary02;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.WyEmailReceive;
+import com.lzw.bean.base.WyEmailReceive;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

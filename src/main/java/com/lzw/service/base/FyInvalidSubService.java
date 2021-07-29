@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FyInvalidSub;
+import com.lzw.bean.base.FyInvalidSub;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

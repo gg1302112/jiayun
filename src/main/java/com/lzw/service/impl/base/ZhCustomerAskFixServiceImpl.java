@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.ZhCustomerAskFix;
+import com.lzw.bean.base.ZhCustomerAskFix;
 import com.lzw.mapper.ZhCustomerAskFixMapper;
 import com.lzw.service.base.ZhCustomerAskFixService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FyHistoryMoneyTemp;
+import com.lzw.bean.base.FyHistoryMoneyTemp;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

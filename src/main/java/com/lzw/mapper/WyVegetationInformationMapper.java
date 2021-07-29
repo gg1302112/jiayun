@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyVegetationInformation;
+import com.lzw.bean.base.WyVegetationInformation;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

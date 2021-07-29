@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblQuick;
+import com.lzw.bean.base.TblQuick;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

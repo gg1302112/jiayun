@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblPositionRecord;
+import com.lzw.bean.base.TblPositionRecord;
 import com.lzw.mapper.TblPositionRecordMapper;
 import com.lzw.service.base.TblPositionRecordService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyEstateIncomeDetail;
+import com.lzw.bean.base.WyEstateIncomeDetail;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

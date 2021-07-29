@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblDbrecovery;
+import com.lzw.bean.base.TblDbrecovery;
 import com.lzw.mapper.TblDbrecoveryMapper;
 import com.lzw.service.base.TblDbrecoveryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

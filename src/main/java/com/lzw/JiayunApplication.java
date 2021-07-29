@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan
+@MapperScan(basePackages = "com.lzw.mapper")
 public class JiayunApplication {
 
     public static void main(String[] args) {

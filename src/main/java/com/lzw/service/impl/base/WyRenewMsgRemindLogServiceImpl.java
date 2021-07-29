@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyRenewMsgRemindLog;
+import com.lzw.bean.base.WyRenewMsgRemindLog;
 import com.lzw.mapper.WyRenewMsgRemindLogMapper;
 import com.lzw.service.base.WyRenewMsgRemindLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

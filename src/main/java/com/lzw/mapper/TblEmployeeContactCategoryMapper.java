@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblEmployeeContactCategory;
+import com.lzw.bean.base.TblEmployeeContactCategory;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

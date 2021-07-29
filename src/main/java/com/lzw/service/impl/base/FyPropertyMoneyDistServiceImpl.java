@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyPropertyMoneyDist;
+import com.lzw.bean.base.FyPropertyMoneyDist;
 import com.lzw.mapper.FyPropertyMoneyDistMapper;
 import com.lzw.service.base.FyPropertyMoneyDistService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

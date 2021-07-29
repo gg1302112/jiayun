@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyEmailReceive;
+import com.lzw.bean.base.WyEmailReceive;
 import com.lzw.mapper.WyEmailReceiveMapper;
 import com.lzw.service.base.WyEmailReceiveService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

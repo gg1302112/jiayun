@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.ZhRentInformation;
+import com.lzw.bean.base.ZhRentInformation;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

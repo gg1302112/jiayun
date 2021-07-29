@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyShareUserDetail;
+import com.lzw.bean.base.FyShareUserDetail;
 import com.lzw.mapper.FyShareUserDetailMapper;
 import com.lzw.service.base.FyShareUserDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

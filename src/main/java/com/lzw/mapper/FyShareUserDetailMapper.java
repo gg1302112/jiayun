@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FyShareUserDetail;
+import com.lzw.bean.base.FyShareUserDetail;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

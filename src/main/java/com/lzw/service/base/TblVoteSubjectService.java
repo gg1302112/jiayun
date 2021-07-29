@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblVoteSubject;
+import com.lzw.bean.base.TblVoteSubject;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

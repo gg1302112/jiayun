@@ -1,6 +1,6 @@
 package com.lzw.service.impl.login;
 
-import com.lzw.bean.TblUserRecord;
+import com.lzw.bean.base.TblUserRecord;
 import com.lzw.mapper.TblUserRecordMapper;
 import com.lzw.service.login.LoginService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyDutyManage;
+import com.lzw.bean.base.WyDutyManage;
 import com.lzw.mapper.WyDutyManageMapper;
 import com.lzw.service.base.WyDutyManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

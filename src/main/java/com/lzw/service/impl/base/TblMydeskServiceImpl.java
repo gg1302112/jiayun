@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblMydesk;
+import com.lzw.bean.base.TblMydesk;
 import com.lzw.mapper.TblMydeskMapper;
 import com.lzw.service.base.TblMydeskService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyCleanPlan;
+import com.lzw.bean.base.WyCleanPlan;
 import com.lzw.mapper.WyCleanPlanMapper;
 import com.lzw.service.base.WyCleanPlanService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

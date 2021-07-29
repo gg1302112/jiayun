@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblCommonMessage;
+import com.lzw.bean.base.TblCommonMessage;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

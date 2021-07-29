@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblAttupload;
+import com.lzw.bean.base.TblAttupload;
 import com.lzw.mapper.TblAttuploadMapper;
 import com.lzw.service.base.TblAttuploadService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

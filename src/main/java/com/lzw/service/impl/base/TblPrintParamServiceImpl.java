@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblPrintParam;
+import com.lzw.bean.base.TblPrintParam;
 import com.lzw.mapper.TblPrintParamMapper;
 import com.lzw.service.base.TblPrintParamService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

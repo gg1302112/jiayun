@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblMainMenu;
+import com.lzw.bean.base.TblMainMenu;
 import com.lzw.mapper.TblMainMenuMapper;
 import com.lzw.service.base.TblMainMenuService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

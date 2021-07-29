@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyGreenCheck;
+import com.lzw.bean.base.WyGreenCheck;
 import com.lzw.mapper.WyGreenCheckMapper;
 import com.lzw.service.base.WyGreenCheckService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

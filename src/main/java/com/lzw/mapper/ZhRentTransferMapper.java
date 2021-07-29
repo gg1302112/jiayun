@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.ZhRentTransfer;
+import com.lzw.bean.base.ZhRentTransfer;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

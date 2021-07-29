@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblColor;
+import com.lzw.bean.base.TblColor;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

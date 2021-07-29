@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.ZhConsumerComplain;
+import com.lzw.bean.base.ZhConsumerComplain;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

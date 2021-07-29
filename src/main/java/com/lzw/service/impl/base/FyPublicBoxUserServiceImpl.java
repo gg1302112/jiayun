@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyPublicBoxUser;
+import com.lzw.bean.base.FyPublicBoxUser;
 import com.lzw.mapper.FyPublicBoxUserMapper;
 import com.lzw.service.base.FyPublicBoxUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyPropertyTakeoverDetail;
+import com.lzw.bean.base.WyPropertyTakeoverDetail;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

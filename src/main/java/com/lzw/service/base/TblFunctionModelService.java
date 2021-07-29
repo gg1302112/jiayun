@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblFunctionModel;
+import com.lzw.bean.base.TblFunctionModel;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

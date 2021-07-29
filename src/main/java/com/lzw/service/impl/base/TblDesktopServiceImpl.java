@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblDesktop;
+import com.lzw.bean.base.TblDesktop;
 import com.lzw.mapper.TblDesktopMapper;
 import com.lzw.service.base.TblDesktopService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

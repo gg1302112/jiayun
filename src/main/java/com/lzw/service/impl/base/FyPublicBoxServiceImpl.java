@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyPublicBox;
+import com.lzw.bean.base.FyPublicBox;
 import com.lzw.mapper.FyPublicBoxMapper;
 import com.lzw.service.base.FyPublicBoxService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

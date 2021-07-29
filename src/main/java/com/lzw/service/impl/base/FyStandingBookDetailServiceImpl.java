@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyStandingBookDetail;
+import com.lzw.bean.base.FyStandingBookDetail;
 import com.lzw.mapper.FyStandingBookDetailMapper;
 import com.lzw.service.base.FyStandingBookDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

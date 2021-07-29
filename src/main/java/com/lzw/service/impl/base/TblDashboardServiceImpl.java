@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblDashboard;
+import com.lzw.bean.base.TblDashboard;
 import com.lzw.mapper.TblDashboardMapper;
 import com.lzw.service.base.TblDashboardService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

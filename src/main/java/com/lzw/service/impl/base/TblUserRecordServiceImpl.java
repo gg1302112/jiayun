@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblUserRecord;
+import com.lzw.bean.base.TblUserRecord;
 import com.lzw.mapper.TblUserRecordMapper;
 import com.lzw.service.base.TblUserRecordService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

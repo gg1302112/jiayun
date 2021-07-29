@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblNetdiskUrl;
+import com.lzw.bean.base.TblNetdiskUrl;
 import com.lzw.mapper.TblNetdiskUrlMapper;
 import com.lzw.service.base.TblNetdiskUrlService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

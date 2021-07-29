@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.WyEstateOutDetailSub;
+import com.lzw.bean.base.WyEstateOutDetailSub;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

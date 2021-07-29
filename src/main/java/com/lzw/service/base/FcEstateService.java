@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FcEstate;
+import com.lzw.bean.base.FcEstate;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

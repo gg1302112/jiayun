@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyVegetationInformation;
+import com.lzw.bean.base.WyVegetationInformation;
 import com.lzw.mapper.WyVegetationInformationMapper;
 import com.lzw.service.base.WyVegetationInformationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

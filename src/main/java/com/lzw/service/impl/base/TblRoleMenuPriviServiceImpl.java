@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblRoleMenuPrivi;
+import com.lzw.bean.base.TblRoleMenuPrivi;
 import com.lzw.mapper.TblRoleMenuPriviMapper;
 import com.lzw.service.base.TblRoleMenuPriviService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

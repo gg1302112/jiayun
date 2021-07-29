@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WySecurityArrange;
+import com.lzw.bean.base.WySecurityArrange;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyNoteManage;
+import com.lzw.bean.base.WyNoteManage;
 import com.lzw.mapper.WyNoteManageMapper;
 import com.lzw.service.base.WyNoteManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

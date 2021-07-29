@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblCustomType;
+import com.lzw.bean.base.TblCustomType;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

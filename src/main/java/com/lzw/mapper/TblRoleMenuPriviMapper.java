@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblRoleMenuPrivi;
+import com.lzw.bean.base.TblRoleMenuPrivi;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

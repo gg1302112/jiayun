@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FyPublicBox;
+import com.lzw.bean.base.FyPublicBox;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

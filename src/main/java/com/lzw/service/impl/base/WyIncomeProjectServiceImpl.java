@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyIncomeProject;
+import com.lzw.bean.base.WyIncomeProject;
 import com.lzw.mapper.WyIncomeProjectMapper;
 import com.lzw.service.base.WyIncomeProjectService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblWorkDate;
+import com.lzw.bean.base.TblWorkDate;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

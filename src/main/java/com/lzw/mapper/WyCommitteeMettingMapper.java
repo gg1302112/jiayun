@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyCommitteeMetting;
+import com.lzw.bean.base.WyCommitteeMetting;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

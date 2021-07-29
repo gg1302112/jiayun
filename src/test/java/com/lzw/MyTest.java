@@ -45,9 +45,9 @@ public class MyTest {
 
         //包名配置
         PackageConfig packageConfig = new PackageConfig();
-        packageConfig.setParent("com.lzw").setMapper("mapper")
+        packageConfig.setParent("com.lzw").setMapper("com/lzw/mapper")
                 .setService("service").setController("controller")
-                .setEntity("bean").setXml("mapper");
+                .setEntity("bean").setXml("com/lzw/mapper");
 
         autoGenerator.setGlobalConfig(globalConfig).setDataSource(dataSourceConfig)
                 .setStrategy(strategyConfig).setPackageInfo(packageConfig);

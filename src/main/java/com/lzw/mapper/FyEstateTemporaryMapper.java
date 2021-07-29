@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FyEstateTemporary;
+import com.lzw.bean.base.FyEstateTemporary;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

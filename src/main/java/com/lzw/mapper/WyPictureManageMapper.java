@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyPictureManage;
+import com.lzw.bean.base.WyPictureManage;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

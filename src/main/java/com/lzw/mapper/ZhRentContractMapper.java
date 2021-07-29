@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.ZhRentContract;
+import com.lzw.bean.base.ZhRentContract;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

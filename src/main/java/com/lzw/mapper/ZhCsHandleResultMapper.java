@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.ZhCsHandleResult;
+import com.lzw.bean.base.ZhCsHandleResult;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

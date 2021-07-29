@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblStopDate;
+import com.lzw.bean.base.TblStopDate;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

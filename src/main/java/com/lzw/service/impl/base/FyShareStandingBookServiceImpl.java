@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyShareStandingBook;
+import com.lzw.bean.base.FyShareStandingBook;
 import com.lzw.mapper.FyShareStandingBookMapper;
 import com.lzw.service.base.FyShareStandingBookService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

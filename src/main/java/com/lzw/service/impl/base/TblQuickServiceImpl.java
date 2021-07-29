@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblQuick;
+import com.lzw.bean.base.TblQuick;
 import com.lzw.mapper.TblQuickMapper;
 import com.lzw.service.base.TblQuickService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

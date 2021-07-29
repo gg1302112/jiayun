@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyEstateOutProject;
+import com.lzw.bean.base.WyEstateOutProject;
 import com.lzw.mapper.WyEstateOutProjectMapper;
 import com.lzw.service.base.WyEstateOutProjectService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

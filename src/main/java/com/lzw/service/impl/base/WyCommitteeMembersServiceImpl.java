@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyCommitteeMembers;
+import com.lzw.bean.base.WyCommitteeMembers;
 import com.lzw.mapper.WyCommitteeMembersMapper;
 import com.lzw.service.base.WyCommitteeMembersService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

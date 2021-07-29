@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblMyNote;
+import com.lzw.bean.base.TblMyNote;
 import com.lzw.mapper.TblMyNoteMapper;
 import com.lzw.service.base.TblMyNoteService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblDbrecovery;
+import com.lzw.bean.base.TblDbrecovery;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblMessageReceive;
+import com.lzw.bean.base.TblMessageReceive;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

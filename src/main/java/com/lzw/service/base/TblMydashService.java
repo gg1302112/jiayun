@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblMydash;
+import com.lzw.bean.base.TblMydash;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

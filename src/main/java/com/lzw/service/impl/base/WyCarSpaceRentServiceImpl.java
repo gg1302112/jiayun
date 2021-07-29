@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyCarSpaceRent;
+import com.lzw.bean.base.WyCarSpaceRent;
 import com.lzw.mapper.WyCarSpaceRentMapper;
 import com.lzw.service.base.WyCarSpaceRentService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

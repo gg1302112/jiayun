@@ -1,6 +1,7 @@
 package com.lzw.service.login;
 
-import com.lzw.bean.TblUserRecord;
+import com.lzw.bean.base.TblUserRecord;
+import org.springframework.stereotype.Component;
 
 /**
  * @author: lzw
@@ -9,7 +10,7 @@ import com.lzw.bean.TblUserRecord;
  * @version: 1.0
  */
 
-
+@Component
 public interface LoginService {
 
     TblUserRecord login(String username,String password);

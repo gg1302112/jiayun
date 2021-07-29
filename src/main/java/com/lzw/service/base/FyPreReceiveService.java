@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.FyPreReceive;
+import com.lzw.bean.base.FyPreReceive;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblArgRecord;
+import com.lzw.bean.base.TblArgRecord;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

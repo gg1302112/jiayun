@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblCommonLanguage;
+import com.lzw.bean.base.TblCommonLanguage;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblSysDiagrams;
+import com.lzw.bean.base.TblSysDiagrams;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

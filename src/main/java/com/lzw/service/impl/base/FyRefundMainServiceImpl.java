@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyRefundMain;
+import com.lzw.bean.base.FyRefundMain;
 import com.lzw.mapper.FyRefundMainMapper;
 import com.lzw.service.base.FyRefundMainService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

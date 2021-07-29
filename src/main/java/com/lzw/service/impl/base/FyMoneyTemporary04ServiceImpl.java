@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyMoneyTemporary04;
+import com.lzw.bean.base.FyMoneyTemporary04;
 import com.lzw.mapper.FyMoneyTemporary04Mapper;
 import com.lzw.service.base.FyMoneyTemporary04Service;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

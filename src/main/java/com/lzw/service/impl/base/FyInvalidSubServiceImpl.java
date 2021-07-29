@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.FyInvalidSub;
+import com.lzw.bean.base.FyInvalidSub;
 import com.lzw.mapper.FyInvalidSubMapper;
 import com.lzw.service.base.FyInvalidSubService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.WyAskMsgRemindLog;
+import com.lzw.bean.base.WyAskMsgRemindLog;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

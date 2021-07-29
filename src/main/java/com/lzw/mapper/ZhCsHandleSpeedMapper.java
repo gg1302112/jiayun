@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.ZhCsHandleSpeed;
+import com.lzw.bean.base.ZhCsHandleSpeed;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

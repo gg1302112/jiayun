@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.ZhCsHandleSpeed;
+import com.lzw.bean.base.ZhCsHandleSpeed;
 import com.lzw.mapper.ZhCsHandleSpeedMapper;
 import com.lzw.service.base.ZhCsHandleSpeedService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

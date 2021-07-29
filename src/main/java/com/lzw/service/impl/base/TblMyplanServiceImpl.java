@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblMyplan;
+import com.lzw.bean.base.TblMyplan;
 import com.lzw.mapper.TblMyplanMapper;
 import com.lzw.service.base.TblMyplanService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

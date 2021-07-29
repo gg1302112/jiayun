@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblMydesk;
+import com.lzw.bean.base.TblMydesk;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

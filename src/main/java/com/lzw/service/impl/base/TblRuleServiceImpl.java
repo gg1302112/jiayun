@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblRule;
+import com.lzw.bean.base.TblRule;
 import com.lzw.mapper.TblRuleMapper;
 import com.lzw.service.base.TblRuleService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

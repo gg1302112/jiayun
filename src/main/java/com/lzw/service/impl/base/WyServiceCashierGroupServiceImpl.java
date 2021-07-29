@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyServiceCashierGroup;
+import com.lzw.bean.base.WyServiceCashierGroup;
 import com.lzw.mapper.WyServiceCashierGroupMapper;
 import com.lzw.service.base.WyServiceCashierGroupService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

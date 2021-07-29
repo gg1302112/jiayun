@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FcEstate;
+import com.lzw.bean.base.FcEstate;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

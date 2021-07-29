@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FyPublicBox;
+import com.lzw.bean.base.FyPublicBox;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblRole;
+import com.lzw.bean.base.TblRole;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

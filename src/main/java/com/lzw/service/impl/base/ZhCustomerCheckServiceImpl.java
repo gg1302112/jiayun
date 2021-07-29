@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.ZhCustomerCheck;
+import com.lzw.bean.base.ZhCustomerCheck;
 import com.lzw.mapper.ZhCustomerCheckMapper;
 import com.lzw.service.base.ZhCustomerCheckService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

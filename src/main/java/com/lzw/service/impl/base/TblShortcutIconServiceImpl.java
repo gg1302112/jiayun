@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblShortcutIcon;
+import com.lzw.bean.base.TblShortcutIcon;
 import com.lzw.mapper.TblShortcutIconMapper;
 import com.lzw.service.base.TblShortcutIconService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

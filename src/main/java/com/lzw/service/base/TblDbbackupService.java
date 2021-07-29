@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblDbbackup;
+import com.lzw.bean.base.TblDbbackup;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

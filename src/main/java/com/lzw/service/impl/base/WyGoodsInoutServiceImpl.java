@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyGoodsInout;
+import com.lzw.bean.base.WyGoodsInout;
 import com.lzw.mapper.WyGoodsInoutMapper;
 import com.lzw.service.base.WyGoodsInoutService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

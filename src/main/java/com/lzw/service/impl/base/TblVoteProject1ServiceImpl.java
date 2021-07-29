@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblVoteProject1;
+import com.lzw.bean.base.TblVoteProject1;
 import com.lzw.mapper.TblVoteProject1Mapper;
 import com.lzw.service.base.TblVoteProject1Service;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

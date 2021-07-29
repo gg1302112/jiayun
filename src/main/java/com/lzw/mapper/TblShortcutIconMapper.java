@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblShortcutIcon;
+import com.lzw.bean.base.TblShortcutIcon;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

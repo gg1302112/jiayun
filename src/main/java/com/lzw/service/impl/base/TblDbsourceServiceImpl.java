@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.TblDbsource;
+import com.lzw.bean.base.TblDbsource;
 import com.lzw.mapper.TblDbsourceMapper;
 import com.lzw.service.base.TblDbsourceService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

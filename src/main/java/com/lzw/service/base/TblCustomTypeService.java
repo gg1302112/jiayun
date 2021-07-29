@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblCustomType;
+import com.lzw.bean.base.TblCustomType;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

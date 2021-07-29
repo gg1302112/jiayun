@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WyVisitManage;
+import com.lzw.bean.base.WyVisitManage;
 import com.lzw.mapper.WyVisitManageMapper;
 import com.lzw.service.base.WyVisitManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

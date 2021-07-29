@@ -1,10 +1,9 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblUserRecord;
+import com.lzw.bean.base.TblUserRecord;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
-import org.springframework.stereotype.Component;
 
 /**
  * <p>
@@ -15,8 +14,9 @@ import org.springframework.stereotype.Component;
  * @since 2021-07-27
  */
 
-@Component
+@Mapper
 public interface TblUserRecordMapper extends BaseMapper<TblUserRecord> {
 
     public TblUserRecord login(@Param("username") String username,@Param("password") String password);
+
 }

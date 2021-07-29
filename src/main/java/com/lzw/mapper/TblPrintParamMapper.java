@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblPrintParam;
+import com.lzw.bean.base.TblPrintParam;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

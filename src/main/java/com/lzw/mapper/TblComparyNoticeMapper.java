@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblComparyNotice;
+import com.lzw.bean.base.TblComparyNotice;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblColor;
+import com.lzw.bean.base.TblColor;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

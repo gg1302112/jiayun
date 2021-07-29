@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.ZhCustomerCheck;
+import com.lzw.bean.base.ZhCustomerCheck;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

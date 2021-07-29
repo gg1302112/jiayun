@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.ZhCsHandleResult;
+import com.lzw.bean.base.ZhCsHandleResult;
 import com.lzw.mapper.ZhCsHandleResultMapper;
 import com.lzw.service.base.ZhCsHandleResultService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

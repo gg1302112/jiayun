@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FyPropertyMoneyDist;
+import com.lzw.bean.base.FyPropertyMoneyDist;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

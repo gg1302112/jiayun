@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.WyCleanPlan;
+import com.lzw.bean.base.WyCleanPlan;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

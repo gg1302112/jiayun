@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FyInvalidMain;
+import com.lzw.bean.base.FyInvalidMain;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

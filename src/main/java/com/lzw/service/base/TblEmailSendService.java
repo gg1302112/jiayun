@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.TblEmailSend;
+import com.lzw.bean.base.TblEmailSend;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

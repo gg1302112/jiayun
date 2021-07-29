@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.TblNetdiskUrl;
+import com.lzw.bean.base.TblNetdiskUrl;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FcCell;
+import com.lzw.bean.base.FcCell;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.FyHistoryMoneyTemp;
+import com.lzw.bean.base.FyHistoryMoneyTemp;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

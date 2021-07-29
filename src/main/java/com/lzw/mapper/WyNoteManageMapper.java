@@ -1,6 +1,6 @@
 package com.lzw.mapper;
 
-import com.lzw.bean.WyNoteManage;
+import com.lzw.bean.base.WyNoteManage;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.WyServiceCashierGroup;
+import com.lzw.bean.base.WyServiceCashierGroup;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

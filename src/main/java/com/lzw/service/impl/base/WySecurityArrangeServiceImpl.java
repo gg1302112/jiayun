@@ -1,6 +1,6 @@
 package com.lzw.service.impl.base;
 
-import com.lzw.bean.WySecurityArrange;
+import com.lzw.bean.base.WySecurityArrange;
 import com.lzw.mapper.WySecurityArrangeMapper;
 import com.lzw.service.base.WySecurityArrangeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

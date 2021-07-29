@@ -1,6 +1,6 @@
 package com.lzw.service.base;
 
-import com.lzw.bean.WyFireAccident;
+import com.lzw.bean.base.WyFireAccident;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**
