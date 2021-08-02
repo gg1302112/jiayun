@@ -21,6 +21,11 @@ public class ResultObject {
     public ResultObject() {
     }
 
+    public ResultObject(String message, Object result) {
+        this.message = message;
+        this.result = result;
+    }
+
     public String getMessage() {
         return message;
     }

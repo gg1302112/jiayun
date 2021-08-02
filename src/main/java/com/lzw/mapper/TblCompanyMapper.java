@@ -3,6 +3,8 @@ package com.lzw.mapper;
 import com.lzw.bean.base.TblCompany;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
+import java.util.List;
+
 /**
  * <p>
  * 企业档案 Mapper 接口
@@ -13,4 +15,5 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  */
 public interface TblCompanyMapper extends BaseMapper<TblCompany> {
 
+    List<TblCompany> selectCompanies();
 }
